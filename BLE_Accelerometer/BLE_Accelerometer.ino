@@ -97,7 +97,7 @@ void setup() {
   #endif
   
   // set the local name peripheral advertises
-  BLE.setLocalName("HaniH2020");
+  BLE.setLocalName("AccelPeriph");
   // set the UUID for the service this peripheral advertises:
   BLE.setAdvertisedService(MovementService);
 
