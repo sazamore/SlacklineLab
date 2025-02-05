@@ -1,5 +1,5 @@
 /**
- *  @filename   :   Element14_NanoRama_Nano33BLE_HinaH_HockeyStick.ino
+ *  @filename   :   BLE_Accelerometer.ino
  *  @brief      :   This software example creates a BLE peripheral with 
  *                  a custom service that contains 2 custom characteristics 
  *                  1. Central to use NOTIFY to receive Acceleration and Gyro data
